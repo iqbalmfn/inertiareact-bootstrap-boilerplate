@@ -1,0 +1,9 @@
+.login { 
+    background-image: linear-gradient(rgba(43, 164, 68, 0.5), rgba(43, 164, 68, 0.5)), url('/images/auth-bg-pattern.jpg'); 
+    background-position: top; 
+    background-repeat: 
+    no-repeat; 
+    background-size: 
+    cover; 
+    height:100vh;
+}

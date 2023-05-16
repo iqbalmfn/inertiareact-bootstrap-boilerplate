@@ -1,0 +1,40 @@
+.sticky-table-header {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.select-dropdown {
+    position: absolute;
+    background-color: #fff;
+    width: 93%;
+    border: 0px solid #ddd;
+    z-index: 99;
+    border-radius: 5px;
+}
+
+.select-dropdown-30 {
+    position: absolute;
+    background-color: #fff;
+    width: 50%;
+    border: 0px solid #ddd;
+    z-index: 99;
+    border-radius: 5px;
+}
+
+.select-list {
+    position: relative;
+    max-height: 200px;
+    overflow: auto;
+    border-radius: 5px;
+}
+
+.select-list input {
+    margin: 10px 50px 10px 10px;
+}
+
+.select-list span {
+    padding: 10px 15px;
+    display: block;
+    cursor: pointer;
+}
